@@ -1,0 +1,7 @@
+ENTENDA, um arquivo JSX, nada mais é que html so que com react, ou seja, é tudo html com algumas coisinhas de react,
+mas em um arquivo JSX, a linguagem padrao é HTML+react, enfim, SE, em um arquivo JSX eu abrir um {}, significa que o que
+tiver dentro dele, vai ser codigo JavaScript. Agora, tem umas tags React, como o ReacDOM, que dentro dele, ele so aceita 
+JSX, que é esse HTML+react, ai mesmo que meu arquivo seja .js, se eu tiver o ReactDOM e eu queira usar JavaScript dentro dele,
+tenho que usar o {}.
+
+IN A NUTHSHELL, em arquivos JSX, eu uso o {} em chamada de alguma função, metodo, ou variavel, pq o JSX tem bastante de JS tb, só nao é igual.
